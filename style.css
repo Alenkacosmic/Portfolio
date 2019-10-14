@@ -1,0 +1,25 @@
+.heading {
+  display: flex;
+  flex-wrap: wrap;
+}
+.heading--owner {
+  display: block;
+}
+.heading--details {
+  display: block;
+  text-decoration: dashed underline overline;
+  color: #33a0d3;
+}
+.heading--contacts--social {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+.heading--contacts--social:hover {
+  opacity: 0.7;
+}
+
+/*# sourceMappingURL=style.css.map */
