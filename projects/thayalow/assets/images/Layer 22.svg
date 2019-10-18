@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 341 233" width="341" height="233">
+	<defs>
+		<image width="341" height="233" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVUAAADpAQMAAACuvTbXAAAAAXNSR0IB2cksfwAAAANQTFRF7J4DcUniMAAAACFJREFUeJztwQENAAAAwqD3T20ON6AAAAAAAAAAAACAZwMoDAABYwjVtgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="section_1">
+		<g id="scroll_1">
+			<use id="Layer 22" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>
